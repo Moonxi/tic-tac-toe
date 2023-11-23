@@ -1,0 +1,22 @@
+.status {
+  width: 120px;
+  height: 2em;
+  margin: 1em auto;
+  text-align: center;
+  line-height: 2em;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.red {
+  color: #f40;
+}
+.black {
+  color: black;
+}
+.draw {
+  color: green;
+}
+.win {
+  border: 3px solid;
+  border-radius: 5px;
+}
